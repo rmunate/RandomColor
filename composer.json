@@ -1,0 +1,39 @@
+{
+    "name": "rmunate/random-color",
+    "description": "Esta libreria permite manejar un grupo determinado de colores HTML, con el fin de emplearlos con fines como Gráficos, Paletas de Colores, Colores de Tema, entre otros.",
+    "keywords": [
+        "random",
+        "color",
+        "altum",
+        "rmunate"
+    ],
+    "homepage": "https://github.com/rmunate/RamdonColor",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rmunate\\RandomColor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raul Mauricio Uñate Castro",
+            "email": "raulmauriciounate@gmail.com",
+            "role": "Developer",
+            "homepage": "https://github.com/rmunate"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        
+    },
+    "extra" : {
+        "branch-alias" : {
+            "dev-main": "v2.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
