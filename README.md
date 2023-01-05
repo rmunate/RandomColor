@@ -1,4 +1,4 @@
-# HTMLColor PHP Laravel
+# Random Color PHP
 ## _Manejo de Colores HTML para uso en gráficos, paletas, entre otros.._
 
 [![N|Solid](https://i.ibb.co/ZLzQTpm/Firma-Git-Hub.png)](#)
