@@ -33,7 +33,6 @@ Podrá invocar el metodo que requiera.
 ```sh
 HTMLColor::groups(['red'])->random(5)->get()
 ```
-![image](https://user-images.githubusercontent.com/91748598/189488638-0fec87e3-c34d-46f5-8a76-99c4d869b414.png)
 
 ## Desarrollador
 - Ingeniero, Raúl Mauricio Uñate Castro
