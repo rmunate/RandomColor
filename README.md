@@ -6,15 +6,14 @@
 Esta clase permite manejar un grupo determinado de colores HTML, con el fin de emplearlos con fines como Gráficos, Paletas de Colores, Colores de Tema, entre otros.
 
 ## Características
-
 -	Retorne colores aleatorios de acuerdo a la necesidad.
 -	Defina el grupo de colores a usar.
 -	Maneje Arreglos de un solo nivel en su uso.
 
 ## Instalación aCon Composer
 
-```sh
-composer require rmunate/random-color
+```console
+composer require rmunate/random-color v2.0.x-dev
 ```
 ## Comandos
 

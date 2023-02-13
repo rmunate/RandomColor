@@ -2,7 +2,8 @@
 
 namespace Rmunate\RandomColor;
 
-class HTMLColor {
+class HTMLColor 
+{
 
 #--------------------------╔═════════════════════════════════╗--------------------------#
 #--------------------------║      ATRIBUTOS DEL OBJETO       ║--------------------------#

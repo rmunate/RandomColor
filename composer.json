@@ -1,6 +1,6 @@
 {
     "name": "rmunate/random-color",
-    "description": "Esta libreria permite manejar un grupo determinado de colores HTML, con el fin de emplearlos con fines como Gráficos, Paletas de Colores, Colores de Tema, entre otros.",
+    "description": "Esta libreria permite manejar un grupo determinado de colores HTML, con el fin de emplearlos con fines como gráficos, paletas de colores, colores de tema, entre otros.",
     "keywords": [
         "random",
         "color",
