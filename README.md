@@ -29,7 +29,7 @@ Podrá invocar el metodo que requiera.
 #Ejemplo
 HTMLColor::groups(['red'])->random(5)->get()
 
-// array:5 [▼ // routes/web.php:32
+// array:5 [▼ // rmunate/random-color
 //   0 => array:5 [▼
 //     "group" => "red"
 //     "name" => "Coral Suave"
